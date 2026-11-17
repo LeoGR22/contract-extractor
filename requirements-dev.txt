@@ -1,0 +1,7 @@
+-r requirements.txt
+pytest==9.1.1
+pytest-asyncio==1.4.1.post1
+httpx==0.28.1
+Faker==40.54.0
+num2words==0.5.14
+reportlab==5.0.1
